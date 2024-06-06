@@ -23,9 +23,6 @@ SimpleAsyncTask est une application Android simple qui démontre l'utilisation d
 - Java
 - Gradle
 
-## Licence
-
-Ce projet est sous licence MIT - voir le fichier [LICENSE.md](LICENSE.md) pour plus de détails.
 
 ![image](https://github.com/totofile/SimpleAsyncTask/assets/113838225/c5f8f372-ed31-4807-8656-58076d8e1a6c)
 ![image](https://github.com/totofile/SimpleAsyncTask/assets/113838225/7d823c82-4095-4b65-aeca-6a233efcc944)
